@@ -1,0 +1,6 @@
+{
+  "name": "Artlist Voice Toolkit Studio",
+  "description": "Professional Text-to-Speech, Dual-Speaker Dialogue, and Voiceover Studio with Bengali and multilingual support inspired by Artlist AI Toolkit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
